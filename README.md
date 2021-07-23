@@ -5,7 +5,7 @@
 - As for Mobile, I develop native IOS and Android Apps using Xcode and Android Studio.
 - I enjoy writing clean code to achieve elegant solutions.
 - I'm currently learning Machine Learning and Data Science
-- 🌱 I’m currently learning computer and communications engineering with a software focus
+- 🌱 I’m currently a senior year undergraduate in computer and communications engineering with a software focus
 - 📫 How to reach me : Linkedin --> https://www.linkedin.com/in/jawad-srour-60166a181/
 
 <!---
