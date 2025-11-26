@@ -5,7 +5,7 @@
 ---
 
 ## 💼 Current Role
-**Team Lead | Senior Software Engineer @ RT2 (T-Mobile)**  
+**Team Lead | Senior Software Engineer @ Acksession (T-Mobile External)**  
 Developing T-Mobile’s ERP, Inventory, and POS platforms using ASP.NET Core, Razor, Python, VueJS, and SQL. Leading a team of engineers, designing scalable APIs, and integrating CI/CD pipelines with Docker and Azure. Also contributed to SmartPay (SaaS POS) architecture using Spring Boot, Python, and ReactJS.
 
 ---
