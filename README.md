@@ -1,72 +1,122 @@
-# 👋 Hi, I’m Jawad Srour
+👋 Hi, I’m Jawad Srour
 
-🎯 **Senior Software Engineer** with 5+ years of experience delivering robust, scalable software across web, mobile, and desktop platforms. Passionate about back-end architecture, clean code, and full-stack development with a focus on performance and elegant solutions.
+Senior Software Engineer (Team Lead) with 5+ years of experience building large-scale enterprise systems for Fortune 500 companies, global financial institutions, and fast-growing startups.
+I specialize in distributed systems, cloud platforms, microservices, high-performance backends, and building end-to-end products from architecture → development → DevOps → deployment.
 
----
+I’ve led engineering teams, optimized mission-critical systems powering $1B+ annual transactions, and delivered platforms used by thousands of users across 6,000+ retail locations.
 
-## 💼 Current Role
-**Team Lead | Senior Software Engineer @ Acksession (T-Mobile External)**  
-Developing T-Mobile’s ERP, Inventory, and POS platforms using ASP.NET Core, Razor, Python, VueJS, and SQL. Leading a team of engineers, designing scalable APIs, and integrating CI/CD pipelines with Docker and Azure. Also contributed to SmartPay (SaaS POS) architecture using Spring Boot, Python, and ReactJS.
+🚀 About Me
 
----
+💼 Senior Software Engineer | Team Lead @ Acksession (USA – Remote)
+Driving the architecture and rollout of T-Mobile’s nationwide ERP, Inventory, and POS systems.
 
-## 💻 Tech Stack
+🧩 I love building modular monoliths, microservices, and cloud-native platforms.
 
-**Languages:**  
-Python | C/C++ | C# | Java | Rust | Swift | JavaScript | TypeScript | Bash | SQL/NoSQL | HTML/CSS | Perl | QML | XML
+⚙️ Passionate about clean code, performance optimization, scalability, DevOps automation, and mentoring engineers.
 
-**Frameworks & Tools:**  
-ASP.NET Core | Django | Flask | FastAPI | Spring Boot | Qt/QML | VueJS | ReactJS | NextJS | Nuxt | NodeJS | ExpressJS | JavaFX
+🎤 Technical speaker in multiple engineering communities (Google Developer Community LB, SE Factory, Develeb, Murex).
 
-**DevOps & Cloud:**  
-Docker | Kubernetes | Azure | AWS | Jenkins | GitHub Actions | Azure Pipelines | Redis | RabbitMQ | Kafka
+🧠 Mentored 500+ engineers and currently support technical hiring & onboarding at Supportful.
 
-**Databases:**  
-PostgreSQL | SQL Server | Oracle | MySQL | MongoDB
+🏢 Professional Experience
+⭐ Acksession – Senior Software Engineer / Team Lead (USA – Remote)
 
-**Testing:**  
-JUnit | Google Test | Cypress | Selenium | UnitTest | Bash/PowerShell scripting for QA automation
+2024 – Present
 
----
+Architected T-Mobile’s mission-critical inventory ERP across 6,223+ stores with 99.9% uptime.
 
-## 🧪 Projects & Highlights
+Optimized APIs achieving 90–99% performance gains with caching & database tuning.
 
-### 🚀 [Launch Company LLC](https://jawadsrourswe.netlify.app/)
-- Architected a full-stack, multi-service web platform on AWS.
-- Implemented GitHub Actions CI/CD, led end-to-end delivery, and optimized for SEO and scalability.
+Led an 8-engineer team, improving delivery speed by 40% through DevOps & process automation.
 
-### 📊 Acksession
-- Built and optimized ERP modules in Django and ReactJS.
-- Enhanced security with Firebase & Azure configurations and implemented caching with Redis.
+Designed enterprise CI/CD pipelines with Docker + Azure → 60% faster deployments & zero-downtime rollouts.
 
-### 🧠 Murex S.A.S.
-- Modernized legacy APIs (C/Java to modern C++/Java).
-- Delivered features on MX.3 financial platform using C++, Python, Java, and SQL databases.
+Modernized legacy systems into modular architectures supporting 10x transaction growth.
 
-### 🎮 CME Offshore
-- Developed device communication apps using Qt/C++.
-- Created enterprise WMS using C, Python, and Django APIs.
+Reduced production bugs by 70% via new engineering standards & code review strategy.
 
----
+Integrated AI-driven engineering workflows (Cursor, Copilot), boosting dev productivity 35%.
 
-## 🎓 Education
+⭐ Murex S.A.S – Software Engineer (Hybrid, Beirut)
 
-**Bachelor of Engineering** in Computer and Communications Engineering  
-American University of Beirut (AUB) – GPA: 3.7/4.0  
-_Focus: Software Engineering & AI in Software Testing_
+2022 – 2024
 
----
+Worked on MX.3, used by top global banks processing $500B+ daily trades.
 
-## 🌱 Learning
-Currently diving deeper into **Machine Learning** and **Data Science**.
+Refactored 100k+ lines of critical backend code → 35% faster execution & 25% memory reduction.
 
----
+Built testing frameworks reaching 92% coverage, cutting production defects 45%.
 
-## 📫 Connect with Me
+Improved trading pipelines throughput by 40%.
 
-- 🌐 [Portfolio Website](https://jawadsrourswe.netlify.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jawad-srour/)
-- 🐙 [GitHub](https://github.com/jawadsrour20)
-- 📧 jawadsrour2011@gmail.com
+Delivered engineering standards presentations to 50+ developers.
 
----
+⭐ CME Offshore – Software Engineer (Hybrid, Beirut)
+
+2021 – 2022
+
+Built AtomX Cast, a real-time streaming platform serving 10K+ creators using Qt/C++.
+
+Enhanced supply chain operations for Dollar General (18,000+ stores) → 50% faster inventory processing.
+
+Upgraded legacy Python 2 systems to modern Python 3 clean architecture.
+
+Reduced backend processing from 2 hours → 30 minutes via algorithmic optimization.
+
+Built cross-platform Qt/QML desktop apps for real-time device communication.
+
+🧪 Key Projects
+🛒 Yamen the Dealer – E-Commerce Ecosystem (2025 – Present)
+
+Full-stack ownership of a scalable online commerce ecosystem with:
+Areeba payment gateway, CRM workflows, real-time inventory, automated CI/CD, and fully elastic backend architecture.
+
+☁️ Launch Company – Multi-Tenant SaaS Platform (2020 – 2024)
+
+Scaled platform serving 15+ enterprise clients.
+
+Designed full microservice architecture on AWS.
+
+Cut deployment time 75% using GitHub Actions CI/CD.
+
+Led a 5-engineer team delivering end-to-end product development.
+
+💻 Technical Skills
+Languages
+
+Python • C/C++ • C# • Java • TypeScript • JavaScript • SQL/NoSQL • Go • Rust • Bash
+
+Frameworks
+
+ASP.NET Core • Django • FastAPI • Spring Boot • React • Vue • Flask • Qt/QML
+
+Cloud & DevOps
+
+Azure (Certified) • AWS • Docker • Kubernetes • GitHub Actions • Jenkins • Terraform • CI/CD automation
+
+Databases
+
+PostgreSQL • SQL Server • Oracle • MySQL • MongoDB • Redis • Elasticsearch • DynamoDB • Firestore
+
+🎓 Education
+
+Bachelor of Computer & Communications Engineering
+American University of Beirut (AUB) — GPA 3.7/4.0
+
+🌱 Currently Learning
+
+Machine Learning & Data Science
+
+Scalable distributed system design
+
+Rust & Go for systems programming
+
+📫 Connect With Me
+
+🌐 Portfolio: https://jawadsrour.vercel.app
+
+💼 LinkedIn: https://www.linkedin.com/in/jawad-srour
+
+🐙 GitHub: https://github.com/jawadsrour20
+
+✉️ Email: jawadsrour2011@gmail.com
